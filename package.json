@@ -1,0 +1,12 @@
+{
+  "name": "fridays-from-home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kirill Korolyov",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "luxon": "^1.4.3"
+  },
+  "devDependencies": {}
+}

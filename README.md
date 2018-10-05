@@ -13,3 +13,5 @@ Then, clone the repo and do the following, inserting your API key and user ID:
     export TIMETASTIC_API_KEY=your_api_key
     export TIMETASTIC_USER_ID=your_user_id
     node .
+
+The script will start running, you'll see days as they are being added. There's no support for bulk operations unfortunately. Simply keep it running for a while, and when satisfied, press Ctrl-C to stop.
